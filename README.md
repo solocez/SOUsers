@@ -21,7 +21,7 @@ The implementation is split into separate layers, bound together via dependency 
 Use `SOUsers.xcodeproj` in order to open sources in XCode. Or from the terminal:
 
 ```bash
-xed SOUsers.xcodeproj
+git clone git@github.com:solocez/SOUsers.git && cd SOUsers && xed .
 ``` 
 
 ## Sources organisation
